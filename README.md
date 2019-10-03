@@ -1,3 +1,8 @@
 # Lib
-Projet validant jeudi 3
+Projet validant The Hacking Project : S'entraîner sur les boucles
+
+Langage utilisé : Ruby
+
+Bruno Vongxay
+Marine Calderon
 
